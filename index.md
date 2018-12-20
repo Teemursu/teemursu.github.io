@@ -32,7 +32,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 [Discourse Studies and Rhetoric](https://courses.helsinki.fi/en/kik-403/126019711)
 
-[Graeco-Roman Legacy in European Languages and Cultures](https://courses.helsinki.fi/en/kik-ay123/125251106(
+[Graeco-Roman Legacy in European Languages and Cultures](https://courses.helsinki.fi/en/kik-ay123/125251106)
 
 [Introduction to Comparative Literature](https://courses.helsinki.fi/en/ttk-yl110/126053618)
 
