@@ -8,7 +8,7 @@ An English major, musician, photographer and filmer, longboard dancer and a nerd
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157), [GitHub](https://github.com/teemursu), [Longboard dancing](https://instagram.com/longteemu), [Photography](https://instagram.com/teemusnaps)  
+[LinkedIn](https://fi.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157), [GitHub](https://github.com/teemursu),   
 
 ## Contact
 
@@ -58,6 +58,8 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[Commandline Course project](https://github.com/Teemursu/cmdline_course) - A course project
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Longboard dancing](https://instagram.com/longteemu), [Photography](https://instagram.com/teemusnaps)
