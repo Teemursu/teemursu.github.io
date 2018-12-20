@@ -8,7 +8,7 @@ An English major, musician, photographer and filmer, longboard dancer and a nerd
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157), [GitHub](https://github.com/teemursu) [Instagram](https://instagram.com/longteemu] 
+[LinkedIn](https://fi.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157), [GitHub](https://github.com/teemursu), [Longboard dancing](https://instagram.com/longteemu), [Photography](https://instagram.com/teemusnaps)  
 
 ## Contact
 
