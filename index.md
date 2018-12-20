@@ -12,7 +12,7 @@ An English major, musician, photographer and filmer, longboard dancer and a nerd
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+teemu.poyhonen@helsinki.fi
 
 ## Courses I've Taken
 
