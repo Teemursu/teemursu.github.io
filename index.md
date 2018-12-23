@@ -54,7 +54,7 @@ teemu.poyhonen@helsinki.fi
 
 [Tutorial](https://courses.helsinki.fi/en/kik-en111/124856303), fall 2017
 
-[Tutoring], fall 2018
+Tutoring, fall 2018
 
 [Äidinkielen opinnot, tieteellinen kirjoittaminen (humanistinen tiedekunta)](https://courses.helsinki.fi/en/hum-tiki/125233643), spring 2018
 
