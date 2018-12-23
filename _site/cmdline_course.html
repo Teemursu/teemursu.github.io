@@ -16,7 +16,7 @@
 <meta property="og:url" content="http://localhost:4000/cmdline_course.html" />
 <meta property="og:site_name" content="Teemu Pöyhönen" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/me.jpg"}},"@type":"WebPage","url":"http://localhost:4000/cmdline_course.html","headline":"Teemu Pöyhönen","description":"This is Teemu’s homepage.","@context":"http://schema.org"}</script>
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/me.jpg"}},"url":"http://localhost:4000/cmdline_course.html","headline":"Teemu Pöyhönen","description":"This is Teemu’s homepage.","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/assets/css/style.css?v=">
@@ -42,12 +42,176 @@
 	</div>
       <h2 id="the-course-in-a-nutshell">The course in a nutshell</h2>
 
-<p>The command-line course teaches students to operate in a Unix enviornment.</p>
+<p>The command-line course teaches students to operate in a Unix enviornment. It is useful especially for language students, as the course also contains information on NLP (Natural Language Processing) and teaches useful ways to process corpus data and write scripts to process large text files (e.g. books). Another important aim of the course is to create and host GitHub Pages, which in the future will work as a kind of portfolio and CV for anyone who wants to pursue a career in coding.</p>
 
 <p>For the purpose of going through the content of the course and what I learned from it, I will introduce the weekly themes and go through them in order</p>
 
-<h2 id="week-1-introduction-to-command-line-environments">Week 1: Introduction to Command-Line Environments</h2>
+<h2 id="introduction-to-command-line-environments">Introduction to Command-Line Environments</h2>
 
+<p>During the first week we learned some basics on the Unix environment commands and file types. For instance, I learned about binary and non-binary files, commands like cp, touch and cat, as well as about the - (slash) sign which modifies the behavior of Linux shell commands.</p>
+
+<p>Learning about file formats for me was mostly a question about learning the differences between Linux and Windows files, as I was already somewhat familar with Windows file formats.</p>
+
+<p>If one would ever need more information on a command, the man command will provide more information about the other command.</p>
+
+<p>`man mv’</p>
+
+<p>Above, the command will tell more information about the mv command.</p>
+
+<p>A common way to create files is the touch command. The command below creates a file called text.txt into your current working directory.</p>
+
+<p><code class="highlighter-rouge">touch text.txt</code></p>
+
+<p>As said before, the slash sign modifies commands.</p>
+
+<p><code class="highlighter-rouge">ls -la</code></p>
+
+<p>The command above, ls, normally lists files in the current working directory. By adding -l, the command displays a long list which provides the following information:</p>
+
+<ul>
+  <li>Filetypes</li>
+  <li>File permissions</li>
+  <li>Number of links</li>
+  <li>Owner name</li>
+  <li>Group name</li>
+  <li>File size</li>
+  <li>Time of last modification</li>
+  <li>Name of the file or directory.</li>
+</ul>
+
+<p>The -a lists the hidden files as well. Normally, I have this aliased so that I don’t have to write <code class="highlighter-rouge">ls -la</code> each time, but more on aliases later.</p>
+
+<h2 id="navigating-a-unix-system">Navigating a UNIX System</h2>
+
+<p>This week I learned about file and user permissions and the root user, symbolic links, and processes. One of the things that I should probably go back to is the material on remote servers. While I had some familiarity with Taito before, I feel like I forgot some of the deeper understanding on how to work on these remote servers.</p>
+
+<p>The chmod command is used to change permissions of files and directories. It is possible to format these permissions numerically. The chmod numerical is usually a three or four digit number, where the leftmost number concerns the permissions of a user, the number next to it concerns the group and, respectively, the third number concerns the others. The numbers representing permissions vary from 0 to 7, where 7 represents all permissions and 0 none. In fact, these digits are converted to a binary format, which then tells us which permissions are allowed and which are not.</p>
+
+<p>Let us take as an example the following command:</p>
+
+<p><code class="highlighter-rouge">chmod 360 file1</code></p>
+
+<p>In this example, the number 3 represents the permissions of the user. As we convert 3 to binary format, we get 011. In this binary digit, the 0 represents the read permission which is turned off. The 1 next to the 0 is the write permission, which is turned on. The rightmost digit, 1, is also turned on and represents the execute permissions. Hence, this command tells us that the user is allowed to write and execute the file, but not read.</p>
+
+<p>Respectively, the 6 in binary format is 110 and 0 is simply 000. This means that the group is allowed to read and write but not execute, while the others simply have no permissions.</p>
+
+<h2 id="corpus-processing">Corpus processing</h2>
+
+<p>For this week I studied how to process and analyze text files by using commands such as grep -E. Regular expressions were probably my favorite concept to learn in the Introduction to Language Technology course, and I was glad to see them again.</p>
+
+<p>Still, while I enjoy RegEx immensely, I had troubles with both calculations and further integrating them into a shell environment. In hindsight, I’m not sure why exactly I had difficulties, since the quizes didn’t require too much besides RegEx.</p>
+
+<p>An example of data processing can be seen here, where I calculate the probabiltity of seeing the word ‘honey’ in a sentence in the book Life of Bee. Here we find all sentences which contain the word “honey.” By using \b around the word, we exclude all inflected forms of the word:</p>
+
+<p><code class="highlighter-rouge">cat life_of_bee.sent | grep -E "\bhoney\b"  | wc -l</code></p>
+
+<p>Then, we divide the result with the total number of sentences, which is an amount we get with:</p>
+
+<p><code class="highlighter-rouge">wc -l life_of_bee.sent</code></p>
+
+<p>To note, the .sent file is the text of the book converted to a sentence per line format.</p>
+
+<h2 id="scripting-and-unix-configuration-files">Scripting and UNIX Configuration Files</h2>
+
+<p>Next, I learned about scripting. For example, I got to customize my own .bashrc file.</p>
+
+<p>This was the most difficult week for me, as it felt like I sohuld have had at least some practice or familiarity with scripting before.</p>
+
+<p>Nonetheless, here are some of my own customizations on .bashrc:</p>
+
+<p>Here is a sample of a code that lets us customize the background color of shell:</p>
+
+<p><code class="highlighter-rouge">export PS1="\u@\[\e[31;46m\]\h\[\e[m\] "</code></p>
+
+<p>To change the default BASH prompt from “username@hostname” to my username, and to add username with hostname, I wrote the following code:</p>
+
+<p><code class="highlighter-rouge">PS1="temppa&gt; "
+export PS1="\u\h "</code></p>
+
+<p>In .bashrc, you can define aliases as types of custom shortcuts to represent commands. Here I have some examples of the ones I used in the fourth week.</p>
+
+<p>To clear the terminal:</p>
+
+<p><code class="highlighter-rouge">alias c='clear'</code></p>
+
+<p>Navigating to the course directory was probably my most used command, so I made a shortcut for myself. By typing ‘letscode’, I was taken to the course directory:</p>
+
+<p><code class="highlighter-rouge">alias letscode='cd /home/temep/cmdline_course'</code>`</p>
+
+<h2 id="installing-and-running-programs">Installing and Running Programs</h2>
+
+<p>For the second to last week I learned about commands such as make. Additionally, while I already had some familarity with Python from another course, I felt like I got a deeper understanding about what exactly pip is.</p>
+
+<p>One of the Python modules I installed this week was the BLLIP parser. After importing the module in python3, we can use the following command to parse the sentence “NLP is fun!”:</p>
+
+<p><code class="highlighter-rouge">rrp.simple_parse("NLP is fun!")</code></p>
+
+<p>This gives us the following parse tree:</p>
+
+<p><code class="highlighter-rouge">'(S1 (S (NP (NNP NLP)) (VP (VBZ is) (NP (NN fun))) (. !)))'</code></p>
+
+<p>Here is a more visually appealing presentation of the syntax tree.</p>
+
+<p><img src="https://i.imgur.com/tHZb1ZZ.png" alt="Syntax Tree" /></p>
+
+<h2 id="version-control">Version Control</h2>
+
+<p>During this last week, I got to prepare for the final assignment of the course (which basically is this page). I have visited github before, and occasionally downloaded files from github, but I never really knew what it was, or how version control works.</p>
+
+<p>Normally, when one would save a file, all the previous changes and versions of the file would be lost. Yet, version control is a system that tracks these changes. In this case, GitHub is a web-based service that applies this concept to code: we are now able to manage code (collectively) and see exactly the changes made to the source code that people make.</p>
+
+<p>Some of the most used commands in managing a project on Github are the git add, git commit and git push.</p>
+
+<p>git add adds files to staging area. With –all we can add all the tracked files to the staging area.</p>
+
+<p><code class="highlighter-rouge">git add --all</code></p>
+
+<p>“git commit” commits the changes made to a Git repository. The -m stands for “message” and the message written should describe what kind of changes you have commited to the Git repository.</p>
+
+<p><code class="highlighter-rouge">git commit -m "Changes made"</code></p>
+
+<p>Lastly, the git push moves the code from your local repository to Github, and git pull grabs code from a remote repository to your local repository.</p>
+
+<p><code class="highlighter-rouge">git push</code></p>
+
+<p><code class="highlighter-rouge">git pull https://github.com/Teemursu/teemursu.github.io</code></p>
+
+<h2 id="building-webpages-using-github-pages">Building Webpages using Github Pages</h2>
+
+<p>Finally, I have installed and learned to use Jekyll to create this GitHub page. Building a webpage using this method is mostly writing and editing Markdown files (.md).</p>
+
+<p>By using the Markdown syntax and editing .md files, we are able to format text by <strong>bolding</strong>, <em>italicizing</em> and add images or tables. Below is a cheatsheet table of Markdown.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Markdown</th>
+      <th>Appears as</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="highlighter-rouge">**bold**</code></td>
+      <td><strong>bold</strong></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">_italics_</code></td>
+      <td><em>italics</em></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">code</code></td>
+      <td><code class="highlighter-rouge">code</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">![image](linktoimage)</code></td>
+      <td><img src="https://s3-eu-west-1.amazonaws.com/mordhau-media/spirit/images/1759/1b3874ae216e3f8d1afa08cb4b9e8309.png" alt="image" /></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">[link](https://www.google.com)</code></td>
+      <td><a href="https://www.google.com">link</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
       </section>
