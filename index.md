@@ -14,6 +14,10 @@ An English major, musician, photographer and filmer, longboard dancer and a nerd
 
 teemu.poyhonen@helsinki.fi
 
+## CV
+
+[CV](https://www.overleaf.com/read/wbgwpnbgxdrz)
+
 ## Courses I've Taken
 
 [Introduction to General Linguistics and Phonetics](https://courses.helsinki.fi/en/kik-401/124787881), fall 2017
