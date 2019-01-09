@@ -16,8 +16,6 @@ Studying language technology, language variation, language in social media, natu
 
 teemu.poyhonen@helsinki.fi
 
-## [CV](https://www.overleaf.com/read/wbgwpnbgxdrz)
-
 ## Courses I've Taken
 
 [Academic Text Skills)](https://courses.helsinki.fi/en/kok-403s/126038088), spring 2018
