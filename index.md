@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-An English major, musician, photographer and filmer, longboard dancer and a geek. Currently working on the second year of studies at the University of Helsinki.
+An English major, writer, beat maker, photographer and filmer, longboard dancer and a geek. Currently working on the second year of studies at the University of Helsinki.
 
 Studying language technology, language variation, language in social media, natural language processing and other phenomenon in computational linguistics. Also interested in communications, especially in the digital contexts. 
 
@@ -74,4 +74,4 @@ Tutoring, fall 2018
 
 ## Misc. 
 
-[Longboard dancing](https://instagram.com/longteemu), [Photography](https://instagram.com/teemusnaps)
+[Written Articles](https://btsbzine.com/?author=5a1af41b53450a9c544d9a19), [Longboard dancing](https://instagram.com/longteemu), [Photography](https://instagram.com/teemusnaps)
