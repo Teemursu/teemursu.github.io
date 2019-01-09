@@ -18,7 +18,7 @@ teemu.poyhonen@helsinki.fi
 
 ## Courses I've Taken
 
-[Academic Text Skills)](https://courses.helsinki.fi/en/kok-403s/126038088), spring 2018
+[Academic Text Skills](https://courses.helsinki.fi/en/kok-403s/126038088), spring 2018
 
 [Applied Linguistics: English as Lingua Franca](https://courses.helsinki.fi/en/kik-en217/125379765), fall 2018
 
