@@ -4,7 +4,7 @@ layout: default
 
 # Weekly workload calculator
 
-This simple calculator first tells you how much time one credit point (ECTS) corresponds to. Then, it will ask you how many credit points the user's course is, and then the length of the course (in weeks). With these inputs, the calculator will tell the user how many hours and minutes a week the user needs to work to complete the course.
+This simple calculator first tells the user how much time one credit point (ECTS) corresponds to. Then, it will ask them how many credit points the user's course is, and then the length of the course (in weeks). With these inputs, the calculator will tell the user how many hours and minutes a week the user needs to work to complete the course.
 
 <iframe src="https://trinket.io/embed/python/a8fc3262a1?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
