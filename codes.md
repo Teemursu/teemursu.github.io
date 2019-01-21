@@ -12,4 +12,4 @@ This simple calculator first tells you how much time one credit point (ECTS) cor
 
 This program will ask a user to input a number placed before a Russian noun. After that, the program will tell the user which form of the noun is correct in this context.
 
-<iframe src="https://trinket.io/embed/python/f27d1319d2" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/f27d1319d2?outputOnly=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
