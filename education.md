@@ -3,6 +3,8 @@ layout: default
 ---
 # Courses
 
+An overview of my education.
+
 ## [Command-Line Course](cmdline_course.html)
 
 This page covers the Command-Line course and works as a kind of summary for it. In this way, it explains some Linux shell commands as well as how Git works.
