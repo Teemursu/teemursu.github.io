@@ -1,0 +1,962 @@
+[33mcommit 76c660c82295d854cacc3ed30679fd74d8e8da96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:46:50 2020 +0200
+
+    Updating CV
+
+[33mcommit 3ee482eace5e9fe4ecc924d5f27e2719dd7702bc[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:40:16 2020 +0200
+
+    Corrected a comma, adding new pictrue
+
+[33mcommit 6bc244293e310dc02009eed5f2968670d9d6a8ee[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:33:30 2020 +0200
+
+    Some changes
+
+[33mcommit 4c26b36b6f3a775dda1cec512202f88ab61a398c[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:24:51 2020 +0200
+
+    Hoping to finally resolve line breaks
+
+[33mcommit eb00419c0f1eca1fcb95027369b7ee80fa811a0f[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:21:08 2020 +0200
+
+    Updated CV
+
+[33mcommit db0af2c6d72ae5bed7ca2824f22d638d0f565dbc[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:16:33 2020 +0200
+
+    Last line break fixed
+
+[33mcommit 2c5c8b061268761ac8c0db3e2a71cead079cbc3c[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:15:31 2020 +0200
+
+    Added link to English Basic studies
+
+[33mcommit d5cf4bdbd4f76abad7c1cd8c5431b342a2372ef1[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:13:57 2020 +0200
+
+    Final fixes
+
+[33mcommit be216b2568fea6bb12e7be53b383bdcf7d0cea18[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:12:18 2020 +0200
+
+    More messing around with line breaks
+
+[33mcommit 97e6b806938a3e6ee1782cad89629baa31fc1b01[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:09:46 2020 +0200
+
+    More messing around with line breaks
+
+[33mcommit 05cdaa6eaf1c0b24908deb2ee615338c1f2e3f7e[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:08:02 2020 +0200
+
+    Fixed line breaks
+
+[33mcommit b763923d4ea873c9a4fc07de0f7ca8b2c1c25a19[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 12:04:54 2020 +0200
+
+    More fixes to Courses list
+
+[33mcommit 9555092c5c538488893dfb48a90a7afe4a38d365[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 11:58:56 2020 +0200
+
+    Fixed newlines
+
+[33mcommit 4640c443b73d8dba642ba05691d6444ec57b0880[m
+Merge: 41ecd10 2ce5048
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 11:57:07 2020 +0200
+
+    Merge branch 'master' of https://github.com/Teemursu/teemursu.github.io
+
+[33mcommit 41ecd108c6504414878bba52169f469fda7eb429[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Mar 24 11:56:40 2020 +0200
+
+    Updated Courses list
+
+[33mcommit 2ce5048af65e4628b14456e5cc0297084196456f[m
+Author: Teemursu <45791873+Teemursu@users.noreply.github.com>
+Date:   Thu Oct 31 17:01:29 2019 +0200
+
+    Update dd (6) (10) (2).ipynb
+
+[33mcommit b6c6f6b5e005b0880b7afada2190fabd79e5d328[m
+Author: Teemursu <45791873+Teemursu@users.noreply.github.com>
+Date:   Thu May 16 20:36:24 2019 +0300
+
+    Update default.html
+
+[33mcommit 8840ce82d880c0460caed3e052de87d24cfad36f[m
+Author: Teemursu <45791873+Teemursu@users.noreply.github.com>
+Date:   Thu May 16 20:31:45 2019 +0300
+
+    Added the final version of the ML project file
+
+[33mcommit 0e8475e6557462632b1be1a261fb28e8497b9dc4[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed May 8 17:33:52 2019 +0300
+
+    Updated profile pic and adding ML project to site
+
+[33mcommit 98f45b248c28524349033586831cd5c1da86e9b5[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed May 8 17:13:39 2019 +0300
+
+    Added the ML project to website
+
+[33mcommit 1baf406ca2be35ff9ecc5c487585e9c2a722fea3[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sat Jan 26 17:48:38 2019 +0200
+
+    Updated profile picture
+
+[33mcommit 146b08149b74089262fd6c8a6ace38902bdfdca4[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Tue Jan 22 13:43:20 2019 +0200
+
+    Updated the number guessing game to the page
+
+[33mcommit b4cf45c0946bb1ca42c1ad25ef1fd66e7bd31f3c[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Mon Jan 21 15:07:04 2019 +0200
+
+    Corrected some language
+
+[33mcommit 83b9aca1aef5ef79a7323538363f5acc164ae783[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Mon Jan 21 14:43:05 2019 +0200
+
+    Hid the code for the Russian noun form program
+
+[33mcommit 576f9207ed9abacfa201fb595585c3efc9c6a458[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Mon Jan 21 14:41:09 2019 +0200
+
+    Added the Russian noun form program
+
+[33mcommit 3bef5affd7309bc84ae34ba54d623a0e4928f4c7[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Mon Jan 21 14:28:38 2019 +0200
+
+    Added Codes & Scripts and a basic code for the page
+
+[33mcommit 292810056419a56ee4f4be69b7822b722e36183e[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed Jan 9 16:15:15 2019 +0200
+
+    Fixed a typo
+
+[33mcommit 8f0e98e94dc19b89e051466708d8b561fd6af92b[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed Jan 9 15:40:00 2019 +0200
+
+    Added a link to BTSB articles
+
+[33mcommit f4f6847ca4ebb5d6f3b57a45d1f2824f4cc39846[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed Jan 9 15:03:36 2019 +0200
+
+    Reworked CV to link to a file on Google Drive
+
+[33mcommit 3fa606f0fc23eb93558f4985876675419dce815e[m[33m ([m[1;32mCV[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Wed Jan 9 14:51:07 2019 +0200
+
+    Updated index.md (added courses, revised introduction)
+
+[33mcommit 11a089b659516a70d048f5c900af86ba136bdee7[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 18:27:24 2018 +0200
+
+    updated cv subpage
+
+[33mcommit 95e0cd6319ea482c4ad66ddfb457e0b550b9cfff[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 18:12:43 2018 +0200
+
+    Updated "Tutoring" in the courses list
+
+[33mcommit 831505a0172685af4a9fc2c0e7c39d885d2c43b4[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 18:11:27 2018 +0200
+
+    Merged the CV link to the header
+
+[33mcommit 13cf84edae6b9fe341bf8b3b52ea069f284d86ea[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 18:09:18 2018 +0200
+
+    updated the introduction section
+
+[33mcommit 24dcbd574e519ac39ac19db1784e824a023f288d[m[33m ([m[1;32mcv[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 18:03:55 2018 +0200
+
+    testing by adding the CV page as a subpage and embedding a picture
+
+[33mcommit e57ecfe8344dd6f9e5b45aacd36eefc7fee78c20[m[33m ([m[1;32mcmdline_course[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 17:34:15 2018 +0200
+
+    finished the Command-Line Course subpage
+
+[33mcommit baaaec568738e5725235b1edae6b71204a2e2c66[m[33m ([m[1;31morigin/cmdline_course[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 15:56:47 2018 +0200
+
+    Developed the cmdline_course.md further and added an image
+
+[33mcommit 4a24bb8a6b55bd5bbaaed720627d6d78bcaee33a[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 13:10:37 2018 +0200
+
+    "publish" the course page with short introductions
+
+[33mcommit 713a669d588de8a8201265ae0fa1eba56ce9cfd9[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 12:22:34 2018 +0200
+
+    added cmdline_course.md
+
+[33mcommit b74aed12122fa3c252f25f85659da4c9d7313830[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Sun Dec 23 12:10:00 2018 +0200
+
+    added cv
+
+[33mcommit 3651bcf47ac7b1b268064e6843750a903b12b1da[m[33m ([m[1;31morigin/cmdline-course[m[33m)[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 17:05:11 2018 +0200
+
+    creating cv.md
+
+[33mcommit 7351ff8467620b99a9591d0565486afc87ca1ac1[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 17:02:55 2018 +0200
+
+    trying to create a CV link
+
+[33mcommit b0e605c21a36e12bff995f1581c5aab67472fa51[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:36:20 2018 +0200
+
+    updated email address
+
+[33mcommit fe2ac270af350cf4aa34798301e78908ce687d85[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:24:51 2018 +0200
+
+    changed image
+
+[33mcommit 1dcdeffd73130950d30a4a963f1cc0f483cd9d1a[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:20:40 2018 +0200
+
+    added project
+    moved hobby pages to misc
+
+[33mcommit d2e64e5681ff94d958d9288cf572608d4d3414fb[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:17:05 2018 +0200
+
+    fixed and added instagram links
+
+[33mcommit f9a26d0ad87b38d734b356e0301869e433a1327f[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:14:43 2018 +0200
+
+    Fixed a typo on a course link
+
+[33mcommit 60935738753692b019b6c5a71749468534b8003f[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 16:11:45 2018 +0200
+
+    Information, courses
+
+[33mcommit 04487a26bd3462ed15550af8aca34d458e1e4fef[m
+Author: Teemu Pöyhönen <teme.polhonen@gmail.com>
+Date:   Thu Dec 20 15:43:17 2018 +0200
+
+    title
+
+[33mcommit d007e9c69106c91a0acee924c07dee4650dc5612[m
+Merge: a05395a 229f059
+Author: Silfverberg <mpsilfve@lm8-400-026.hum.helsinki.fi>
+Date:   Tue Dec 11 12:04:49 2018 +0200
+
+    Merge branch 'master' of github.com:mpsilfve/minimal
+
+[33mcommit a05395a47985ad14fe44e640c5e91b44347cc756[m
+Author: Silfverberg <mpsilfve@lm8-400-026.hum.helsinki.fi>
+Date:   Tue Dec 11 12:04:40 2018 +0200
+
+    Remover unnecessary layout.
+
+[33mcommit 229f05957e95d95dbc9c946732d9137bd29f9bd7[m
+Author: Miikka Silfverberg <mpsilfve@iki.fi>
+Date:   Mon Dec 10 20:37:47 2018 +0200
+
+    Separate layout and contents.
+
+[33mcommit 6d6583084ceeaad8f9599b6b0902dd838294a400[m
+Author: Silfverberg <mpsilfve@LM8-400-026.local>
+Date:   Mon Dec 10 12:40:14 2018 +0200
+
+    Remove dummy page.
+
+[33mcommit cf07e8be34bfad56aecb3577201cf3bb7cf69585[m
+Author: Silfverberg <mpsilfve@LM8-400-026.local>
+Date:   Mon Dec 10 12:35:00 2018 +0200
+
+    Links.
+
+[33mcommit c7f26f62bd262d739c529871708c31e290bc3657[m
+Author: Silfverberg <mpsilfve@LM8-400-026.local>
+Date:   Mon Dec 10 12:34:38 2018 +0200
+
+    Homepage edits.
+
+[33mcommit 82c813d40ee3ad72fa7f2c2077b96f3d2bc22c82[m
+Author: Silfverberg <mpsilfve@lm8-400-026.hum.helsinki.fi>
+Date:   Fri Dec 7 17:55:02 2018 +0200
+
+    Remove link to CV
+
+[33mcommit 1a8defc82789d137d294cde528add3afdb935086[m
+Author: Silfverberg <mpsilfve@lm8-400-026.hum.helsinki.fi>
+Date:   Fri Dec 7 17:29:57 2018 +0200
+
+    Modifications for homepage use.
+
+[33mcommit 833807bae314429c770ba7ba2db282224c7b7c23[m
+Merge: 95ab0f7 69701fe
+Author: Ben Balter <ben.balter@github.com>
+Date:   Sun May 27 12:05:31 2018 -0400
+
+    Merge pull request #35 from quytelda/downloads
+    
+    Add `downloads` SCSS class for download lists
+
+[33mcommit 69701fe30f430917e9388b38a4965b853d59e0bf[m
+Author: Quytelda Kahja <quytelda@tamalin.org>
+Date:   Thu May 24 19:56:02 2018 -0700
+
+    Add 'downloads' SCSS class for download lists
+    
+    In order for the downloads list to render differently from other
+    'ul's in the header while still making regular 'ul's easy to style,
+    it is necessary for it to implement a separate class.  Implement the
+    'downloads' class to represent this special type of list.
+
+[33mcommit a6c325e37680e825e22fbba08534ecc04f13d852[m
+Author: Quytelda Kahja <quytelda@tamalin.org>
+Date:   Thu May 24 19:11:07 2018 -0700
+
+    Add "downloads" class to list of downloads
+
+[33mcommit 95ab0f77df685c85fef329b9ae6f2ed88d576dce[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Apr 11 10:21:58 2018 -0400
+
+    :gem: bump
+
+[33mcommit 15bd6a867a06e34ecf43811fdaaab2422e8b5b06[m
+Merge: 6ee9693 d69ddf2
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Apr 11 10:11:46 2018 -0400
+
+    Merge pull request #30 from EricFromCanada/markup-updates
+    
+    Markup updates
+
+[33mcommit d69ddf29ab726cc463b48fa0576e6f515c5a6c76[m
+Merge: 7bf831d 6ee9693
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Apr 11 10:08:31 2018 -0400
+
+    Merge branch 'master' into markup-updates
+
+[33mcommit 6ee9693502517c201ac303e59f8888327d920417[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Apr 10 09:53:35 2018 -0400
+
+    enforce SRI
+
+[33mcommit 583ac832b6d4e8584e8a1e6fea45f26af089c74e[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Apr 10 09:41:10 2018 -0400
+
+    Remove explict heading from index.md
+
+[33mcommit f16c91cf51e2f67c369dbcb3ef6c70e6577b1d9f[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Apr 9 20:02:09 2018 -0400
+
+    use self-closing image tag
+
+[33mcommit c90ddfce6393f71cdda90d58ef0eb3272a2f25dc[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Apr 9 19:49:42 2018 -0400
+
+    Correct some style/validation errors
+
+[33mcommit 0f7b11d7baded4fdaff88e1637a1da62495d8a40[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Apr 9 19:49:37 2018 -0400
+
+    Validate and enforce style via CI
+
+[33mcommit 7bf831deecdcfd6cc157106d057333eb78c09d6e[m
+Author: EricFromCanada <eric@lassosoft.com>
+Date:   Wed Apr 4 15:48:00 2018 -0400
+
+    use double quotes inside template tags
+
+[33mcommit b405a948be9b97769b638cde84bc8b09f354202b[m
+Author: EricFromCanada <eric@lassosoft.com>
+Date:   Wed Apr 4 15:43:29 2018 -0400
+
+    update URL for html5shiv
+
+[33mcommit de1bf71705e69f3260cae8c1ee10de5a25a92482[m
+Author: EricFromCanada <eric@lassosoft.com>
+Date:   Wed Apr 4 15:42:21 2018 -0400
+
+    fix outdated template tag
+
+[33mcommit 6c350117a9272ab0cba9c76037748eba1482d6d5[m
+Author: EricFromCanada <eric@lassosoft.com>
+Date:   Wed Apr 4 15:33:50 2018 -0400
+
+    match markup & indentation from primer theme
+
+[33mcommit 617c7fe38eeb23b124f29555f97afb09f30026d4[m
+Merge: 9830542 11c5cba
+Author: Ben Balter <ben.balter@github.com>
+Date:   Thu Apr 5 09:43:09 2018 -0400
+
+    Merge pull request #29 from mdelmans/title-image
+    
+    Title image
+
+[33mcommit 11c5cbabe5a07b19b81e1f7ed9a812452cf42ff9[m
+Author: Mihails Delmans <md656@cam.ac.uk>
+Date:   Wed Apr 4 21:16:26 2018 +0100
+
+    Add relative_url filter
+
+[33mcommit 8e4eafb48dbe007ccb839caf864639b1b35913ab[m
+Author: Mihails Delmans <md656@cam.ac.uk>
+Date:   Mon Apr 2 20:32:01 2018 +0100
+
+    Add changes to README.md
+    Renaming title-image to logo
+
+[33mcommit abc47152088c0fddbdbb8c818c004e63d54db90b[m
+Author: Mihails Delmans <md656@cam.ac.uk>
+Date:   Mon Apr 2 20:29:08 2018 +0100
+
+    Change variable name to logo
+
+[33mcommit 7c73945fea73ac060238e54501643b00e48ce7f7[m
+Author: Mihails Delmans <md656@cam.ac.uk>
+Date:   Sun Apr 1 19:41:19 2018 +0100
+
+    Add changes to README.md
+    Including information about the title_image option
+
+[33mcommit 1d59021dcfba0f5c3f60fc6bfd483767040b80a8[m
+Author: Mihails Delmans <md656@cam.ac.uk>
+Date:   Sun Apr 1 19:34:37 2018 +0100
+
+    Add titile_image
+    Adds an optional image between title and description in the header
+
+[33mcommit 98305426dd24e232f149e8338ad7a6193c785a4c[m
+Merge: 3763ad0 ba39bf4
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Jan 2 10:44:47 2018 -0500
+
+    Merge pull request #26 from Jmuccigr/patch-1
+    
+    Create post.html
+
+[33mcommit ba39bf4303c282c5d5728ae621b9d5a93e8487b4[m
+Merge: 6ed2d67 3763ad0
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Jan 2 10:43:02 2018 -0500
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 3763ad082abbc4f09444ac3e58c31d8a47d618cb[m
+Merge: 9e102a4 166caa1
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Jan 2 10:42:23 2018 -0500
+
+    Merge pull request #20 from ousia/patch-1
+    
+    make font-size relative in <code> and <pre>
+
+[33mcommit 166caa1ecff346e5599d62f0fe2ce3e507ebe26a[m
+Merge: cc3e122 9e102a4
+Author: Pablo Rodríguez <ousia@users.noreply.github.com>
+Date:   Sun Dec 31 20:03:58 2017 +0100
+
+    Merge branch 'master' into patch-1
+
+[33mcommit 6ed2d67b98344948efd2878e9056bc7832b4ddd6[m
+Author: John Muccigrosso <Jmuccigr@users.noreply.github.com>
+Date:   Sun Dec 31 12:23:41 2017 -0500
+
+    Add date
+
+[33mcommit 508bbd0fbdf646957c205b1d71718d12e99ee813[m
+Author: John Muccigrosso <Jmuccigr@users.noreply.github.com>
+Date:   Sun Dec 31 12:14:22 2017 -0500
+
+    Removed blog title
+
+[33mcommit 86f280393876a78ef4362939acddaae3d505f6c8[m
+Author: John Muccigrosso <Jmuccigr@users.noreply.github.com>
+Date:   Sun Dec 31 11:09:58 2017 -0500
+
+    Base on default
+
+[33mcommit c550b9aa03a3a2787f014cbf1f326b7c538ea138[m
+Author: John Muccigrosso <Jmuccigr@users.noreply.github.com>
+Date:   Wed Dec 27 12:54:12 2017 -0500
+
+    Remove unneeded line break
+
+[33mcommit a5346fa32186bf2e81a77a3562364dedf2e7f828[m
+Author: John Muccigrosso <Jmuccigr@users.noreply.github.com>
+Date:   Wed Dec 27 12:12:38 2017 -0500
+
+    Create post.html
+    
+    A simple layout for blog posts.
+
+[33mcommit 9e102a46e313396641d3edf9d7a56d49f9d60fa1[m
+Merge: 7c6f497 838fc9a
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Nov 14 10:36:51 2017 -0500
+
+    Merge pull request #22 from znegva/patch-1
+    
+    fixed link to CONTRIBUTING.md in README.md
+
+[33mcommit 838fc9a2f222fae727a90e5b8b8a3c17138850d2[m
+Author: znegva <znegva@users.noreply.github.com>
+Date:   Tue Nov 14 13:18:30 2017 +0100
+
+    fixed link to CONTRIBUTING.md in README.md
+
+[33mcommit cc3e122013f0750e5a6d123c8afa27786394c272[m
+Author: Pablo Rodríguez <ousia@users.noreply.github.com>
+Date:   Wed Nov 1 18:03:04 2017 +0100
+
+    make font-size relative in <code> and <pre>
+    
+    If the font size in `<pre>` and `<code>` is fixed, using it in headings is weird.
+    
+    Making the font size in those elements relative fixes the issue.
+    
+    Just in case it helps.
+
+[33mcommit 7c6f497f7b555905ad482492353b0294f15984aa[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:41:43 2017 -0400
+
+    Update docs/CONTRIBUTING.md
+
+[33mcommit f70e9313b3cfda751cf92e7d89e01e156f60e875[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:41:42 2017 -0400
+
+    Update docs/SUPPORT.md
+
+[33mcommit 29062e53756bd3f762d8dd98219e1f46014d9ec5[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:41:41 2017 -0400
+
+    Update .github/config.yml
+
+[33mcommit 0904a9338d7a82ab8fba2d4c2ad040ccba3c1ded[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:54 2017 -0400
+
+    Create docs/CONTRIBUTING.md
+
+[33mcommit 16a92f0103328cd47f0aa8604569394004af5bdd[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:53 2017 -0400
+
+    Create docs/SUPPORT.md
+
+[33mcommit 0b9cf054a4f4e5a20469836c7effa4f36ca39f8f[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:52 2017 -0400
+
+    Create docs/CODE_OF_CONDUCT.md
+
+[33mcommit 8550fe9ebb9358ab536aeaa2a10ea83443acd968[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:51 2017 -0400
+
+    Create .github/settings.yml
+
+[33mcommit 99ceaf4a6a64dd2bc665cd4e3993ea40694592de[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:50 2017 -0400
+
+    Create .github/config.yml
+
+[33mcommit 1cf94bf3de740a43ca524ddfd7b163534670a83e[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:49 2017 -0400
+
+    Create .github/no-response.yml
+
+[33mcommit bd49db4696cf225c3ff82625c38e04d899579ca2[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:48 2017 -0400
+
+    Create .github/stale.yml
+
+[33mcommit e593542edf5f584c4f911dd5577f4372b9fe700a[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:48 2017 -0400
+
+    Create .github/CODEOWNERS
+
+[33mcommit 0d15a5696ddb5ead177b7c1fcd2a54cc043cda96[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:46 2017 -0400
+
+    Delete CONTRIBUTING.md
+
+[33mcommit 06a317a1e693d6465ee86391dc2f62289208023e[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Oct 24 10:35:45 2017 -0400
+
+    Delete CODE_OF_CONDUCT.md
+
+[33mcommit bdcb95c61b65a1a095b46b193747e8b479648b0a[m
+Merge: dc4e4a2 14c91fd
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Oct 16 15:10:29 2017 -0400
+
+    Merge pull request #18 from sjsakib/header-improvement-1
+    
+    added link to home in header
+
+[33mcommit 14c91fd00eb285274d6313f2070c49bd88ad731f[m
+Author: S.j. Sakib <sjsakib.bd@gmail.com>
+Date:   Mon Oct 16 12:40:06 2017 +0600
+
+    added link to home in header
+
+[33mcommit dc4e4a24d790f049ec9dd7de846272dcd67cda01[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Aug 14 11:02:29 2017 -0400
+
+    :gem: bump
+
+[33mcommit 2928991b6cbb083af50abb283cec77e61704d74b[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Aug 14 10:54:18 2017 -0400
+
+    use Jekyll SEO Tag to generate page titles
+
+[33mcommit c827e10a73ef8c75e99b34923c38cc1273d40713[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Jul 19 09:45:57 2017 -0400
+
+    Update CONTRIBUTING.md
+
+[33mcommit 6dd93cd6c182615beeeb6e08fee03eb9765e9732[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Jul 19 09:45:18 2017 -0400
+
+    Update CONTRIBUTING.md
+
+[33mcommit 11f625396298d1d1ab970be612bcd4101179280d[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Jul 19 09:43:03 2017 -0400
+
+    Update CONTRIBUTING.md
+
+[33mcommit 2246632561e692e380cd60c3aaa9ae47092453c4[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Fri Apr 21 13:34:49 2017 -0400
+
+    Add lang property to <html> tag, h/t @mgifford
+
+[33mcommit 271bacbd3f6ddc75cb5982c0e49489ac6c7818d2[m
+Merge: 90db683 2e29f68
+Author: Ben Balter <ben.balter@github.com>
+Date:   Fri Apr 21 11:31:24 2017 -0400
+
+    Merge pull request #11 from mgifford/master
+    
+    Fix color contrast
+
+[33mcommit 2e29f68870d267c917ad44367f30086197684361[m
+Author: Mike Gifford <mike@openconcept.ca>
+Date:   Fri Apr 21 11:11:56 2017 -0400
+
+    adding minimal background color with grey background
+
+[33mcommit 9682428e700caaa5350a646eb73da9498e7b9f7b[m
+Author: Mike Gifford <mike@openconcept.ca>
+Date:   Fri Apr 21 11:04:32 2017 -0400
+
+    making link meet wcag compliance. adding focus state for keyboard.
+
+[33mcommit 90db6831dc4a61631f9639ce18573bc4b838b3e7[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Mar 29 12:10:43 2017 -0400
+
+    :gem: bump
+
+[33mcommit 3decf3fc3ebd25d3a9b9f007704ebecf678265dd[m
+Merge: f3fa6b6 3eaf017
+Author: Ben Balter <benbalter@users.noreply.github.com>
+Date:   Mon Jan 9 12:17:48 2017 -0500
+
+    Merge pull request #5 from vitalyzhakov/patch-1
+    
+    Use GA async code
+
+[33mcommit 3eaf0175ec7aa070e27514903ecc49f5f8c7bbf6[m
+Author: vitalyzhakov <vitalyzhakov@gmail.com>
+Date:   Sun Jan 8 14:14:07 2017 +0600
+
+    Use GA async code
+    
+    Recommended by Google and more useful, for example, for google webmaster site confirmation.
+
+[33mcommit f3fa6b6dff0e11051d38bd3601d891a7725dc385[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Jan 3 10:23:51 2017 -0500
+
+    Correct stylesheet path in README
+
+[33mcommit 5996fc53cf0e057ba9ec2701026ef0c4dfd98264[m
+Merge: 52dcb8d a740b04
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 28 11:13:44 2016 -0500
+
+    Merge pull request #4 from beol/feature/javascript-namespace
+    
+    Enhance scale fix script
+
+[33mcommit a740b043cbb78beaf9f8f320a52e8f93d9275d03[m
+Author: Leo Laksmana <beol@laksmana.com>
+Date:   Wed Dec 28 16:20:08 2016 +0800
+
+    Enhance scale fix script
+    
+    Create namespace for the script so it doesn't litter the global scope,
+    especially when loading it as a module, i.e. requirejs.
+
+[33mcommit 52dcb8d7118b8cd2c7b32f03b53a03355d304057[m
+Merge: 5700088 8c42c4e
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 28 09:32:03 2016 -0500
+
+    Merge pull request #3 from beol/bugfix/event-handler
+    
+    Fix bug of incorrect touch event name
+
+[33mcommit 8c42c4ea189e7a8095af2f051780354a0b08b553[m
+Author: Leo Laksmana <beol@laksmana.com>
+Date:   Wed Dec 28 16:05:38 2016 +0800
+
+    Fix bug of incorrect touch event name
+    
+    Beginning of touch event is called `touchstart`, not `gesturestart` as referenced [1] here.
+    
+    [1] https://developer.mozilla.org/en/docs/Web/API/Touch_events
+
+[33mcommit 5700088c510c29ab35b7d9cfef1d678cc9d16dda[m
+Merge: 789bcf3 389be12
+Author: Ben Balter <ben.balter@github.com>
+Date:   Mon Dec 19 11:16:39 2016 -0500
+
+    Merge pull request #2 from that-pat/patch-1
+    
+    Correct Roadmap Link
+
+[33mcommit 389be122acc1f0437c86863d1fb6a46a102d143c[m
+Author: Pat East <that-pat@github.com>
+Date:   Sun Dec 18 12:32:49 2016 -0600
+
+    Correct Roadmap Link
+    
+    Roadmap link had two letters flipped and was broken. This change fixes that.
+
+[33mcommit 789bcf3383f47b489504e602955f28ba00898c83[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 16:46:44 2016 -0500
+
+    Correct repository URL in Travis badge
+
+[33mcommit 075a3f00de1cb40a3142544f16a94a909b89d674[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 16:39:14 2016 -0500
+
+    Trigger initial Travis build
+
+[33mcommit 5cccdf18f7d038fc57c35fcab22b5d49cf6ec77d[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 14:59:10 2016 -0500
+
+    :gem: bump
+
+[33mcommit 64bf3310743e4636724d4d23de0a86afc5bd4863[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 14:59:10 2016 -0500
+
+    append build revision to stylesheet path to break cache
+
+[33mcommit 30f09c2c35c82ba5d529d13889f6aa6058a02ec3[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 13:50:32 2016 -0500
+
+    :gem: bump
+
+[33mcommit 7e03b97a0da71539f1a5b784bd16442c9b086f67[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 13:44:26 2016 -0500
+
+    Add license to Gemspec
+
+[33mcommit 0e5acd33227247d4d264da67ac10829993440fec[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 13:04:19 2016 -0500
+
+    Add release script
+
+[33mcommit c200fd576707e1c1e5de803761cda54184a85d5b[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 12:28:47 2016 -0500
+
+    add thumbnail to README
+
+[33mcommit 675c54b49632fc1a51fa98a06c0850dc39b2fbf3[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 11:04:19 2016 -0500
+
+    Update attribution in Gemspec
+
+[33mcommit f23c418d43292ab1f10ebf4c857c512284eff241[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Wed Dec 14 11:04:19 2016 -0500
+
+    License under CC0
+
+[33mcommit 0a79b3c5c38d30d988b957268ecf2fccaf4f6545[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 16:14:24 2016 -0500
+
+    Flesh out README
+
+[33mcommit 46b546b2b8078529e2a4930a40c652f16f6e28d6[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 15:25:38 2016 -0500
+
+    hard code theme name in stylesheet to avoid conflict
+
+[33mcommit 71c527ae683740b19d7131461d60a23d6c74c2f0[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 11:42:33 2016 -0500
+
+    normalize theme names
+
+[33mcommit 99085e5a840c59a529c12d8ae4b86af2eaf9514d[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    add Travis config
+
+[33mcommit c20a3fac3c1b74a1e23bf2f31bfa254174142cc4[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    Ignore compiled gems
+
+[33mcommit b80c4a2b85a3a04a0b9c292bf03d4b49045b9822[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    add scripts to rule them all
+
+[33mcommit 773327ae081cc8f83918c3539d1bc2e52baeb307[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    Update contact email in Gemspec
+
+[33mcommit fc55629933b0e954268e14bbd92ae07f97411a01[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    add Code of Conduct
+
+[33mcommit 7fcc9c70db492d1f64ded84255c0408c7fda0d61[m
+Author: Ben Balter <ben.balter@github.com>
+Date:   Tue Dec 13 10:28:59 2016 -0500
+
+    add contributing file
+
+[33mcommit 35bbd7502feb2668bdb152cd6de18f7101d70270[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Mon Nov 7 10:35:58 2016 -0500
+
+    $1
+
+[33mcommit df4af1b79d590c1111356d81d8bbe81c748ec8e7[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Fri Nov 4 17:06:50 2016 -0400
+
+    $1
+
+[33mcommit 38015e4f2e30fab07d53851d32133d6a12e9ca34[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Fri Oct 7 11:54:20 2016 -0400
+
+    $1
+
+[33mcommit f675cc6c6f47ca0db22810ca16cac70d519c69fa[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Thu Oct 6 19:51:30 2016 -0400
+
+    readme fix
+
+[33mcommit 1931500cbf391c776a17d6ea9f6af542ad0423d3[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Thu Oct 6 19:25:57 2016 -0400
+
+    readme fix
+
+[33mcommit 35b0ba75cfaed030240511f6bd78d635fd8d8e7d[m
+Author: Jurgen Leschner <jldec@github.com>
+Date:   Thu Oct 6 19:07:27 2016 -0400
+
+    init
