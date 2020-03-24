@@ -2,9 +2,13 @@
 layout: default
 ---
 
-## [Command-Line Course](cmdline_course.html)
+# [Command-Line Course](cmdline_course.html)
+
+This page covers the Command-Line course and works as a kind of summary for it. In this way, it explains some Linux shell commands as well as how Git works.
 
 # Courses I've Taken
+
+Here is a sample of some of my favorite courses that I feel are relevant to what I want to do in life.
 
 ### Language Technology
 [Command-line Course](https://courses.helsinki.fi/en/KIK-LG218/126710126), grade 4
@@ -34,5 +38,3 @@ Linguistics, Basic Studies, ongoing
 
 [Practices in Digital Communications](https://courses.helsinki.fi/en/aypvk-606/123707113), (pass/fail)
 
-## Projects
-[Commandline Course project](https://github.com/Teemursu/cmdline_course) - A course project
