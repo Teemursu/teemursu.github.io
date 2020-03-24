@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Projects
-
 ## [Word Sense Disambiguation](https://github.com/Teemursu/teemursu.github.io/blob/master/dd%20(6)%20(10)%20(2).ipynb)
 
 My first machine learning system built for "Machine Learning for Linguists" course. I used the naive Bayes classifier to disambiguate between words hard, interest, serve and line. As my data, I used the Senseval 2 corpus.

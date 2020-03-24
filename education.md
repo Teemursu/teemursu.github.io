@@ -8,7 +8,7 @@ This page covers the Command-Line course and works as a kind of summary for it. 
 
 # Courses I've Taken
 
-Here is a sample of some of my favorite courses that I feel are relevant to what I want to do in life.
+Here is a sample of some of my favorite courses that are also relevant.
 
 ### Language Technology
 [Command-line Course](https://courses.helsinki.fi/en/KIK-LG218/126710126), grade 4
