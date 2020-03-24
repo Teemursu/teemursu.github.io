@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Introduction
+## About me
 
-Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), geek and a beat maker. I'm working on my Bachelor's Thesis at the University of Helsinki.
+Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), geek and a beat maker.
 
-Studying language technology, NLP (natural language processing) and language change.
+Studying language technology, NLP (natural language processing) and language change. I'm working on my Bachelor's Thesis at the University of Helsinki.
 
 ## Contact
 
