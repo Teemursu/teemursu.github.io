@@ -11,7 +11,7 @@ This page covers the Command-Line course and works as a kind of summary for it. 
 
 ## Courses I've Taken
 
-Here is a sample of some of my favorite courses that are also relevant.
+Here is a sample of some of my favorite courses..
 
 ### Language Technology
 
