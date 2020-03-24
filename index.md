@@ -30,7 +30,7 @@ teemu.poyhonen@helsinki.fi
 [Applied Linguistics: English as Lingua Franca](https://courses.helsinki.fi/en/kik-en217/125379765), grade 5\
 [Reasons and Consequences for Misunderstandings](https://courses.helsinki.fi/en/aykik-408/125298555), grade 5
 ### Other
-[English, Basic Studies], grade 4\
+[English, Basic Studies](https://courses.helsinki.fi/en/a400490/114693070), grade 4\
 Linguistics, Basic Studies, ongoing\
 [Practices in Digital Communications](https://courses.helsinki.fi/en/aypvk-606/123707113), (pass/fail)
 ## Projects
