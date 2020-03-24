@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Courses I've Taken
+# Courses I've Taken
 
 ### Language Technology
 [Command-line Course](https://courses.helsinki.fi/en/KIK-LG218/126710126), grade 4
