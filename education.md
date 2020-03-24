@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## [Command-Line Course](cmdline_course.html)
+
 # Courses I've Taken
 
 ### Language Technology
