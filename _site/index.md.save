@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Teemu Pöyhönen | This is Teemu’s homepage.</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Teemu Pöyhönen" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is Teemu’s homepage." />
+<meta property="og:description" content="This is Teemu’s homepage." />
+<link rel="canonical" href="http://localhost:4000/index.md.save" />
+<meta property="og:url" content="http://localhost:4000/index.md.save" />
+<meta property="og:site_name" content="Teemu Pöyhönen" />
+<script type="application/ld+json">
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/me.jpg"}},"url":"http://localhost:4000/index.md.save","headline":"Teemu Pöyhönen","description":"This is Teemu’s homepage.","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Teemu Pöyhönen</h1>
+        
+        
+          <img src="/assets/img/me.jpg" alt="Logo" />
+        
+
+      </header>
+      <section>
+	<div class="linkbar">
+	  <a class="sitelinks" href="index.html">Home</a> 
+	  <a class="sitelinks" href="cmdline_course.html">Command-Line Course</a> 
+	  <a class="sitelinks" href="https://github.com/Teemursu/teemursu.github.io/blob/master/dd%20(6)%20(10)%20(2).ipynb">Word Disambiguation Project</a>
+	  <a class="sitelinks" href="codes.html">Codes & Scripts</a>
+	  <a class="sitelinks" href="https://drive.google.com/file/d/1CohArJZHwkcgTs-9_KqVeOhuVJcTxvKf/view?usp=sharing">CV</a>
+	</div>
+      ## Introduction
+
+An English major, musician, photographer and filmer, longboard dancer and a nerd. 
+
+## Find me on
+
+[LinkedIn](https://fi.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157), [GitHub](https://github.com/teemursu) [Instagram](https://instagram.com/longteemu] 
+
+## Contact
+
+My email address is of the form teemu.poyhonen@helsinki.fi. 
+
+## Courses I've Taken
+
+[Introduction to General Linguistics and Phonetics](https://weboodi.helsinki.fi/hy/opintjakstied.jsp?MD5avain=4b75e0f8-6255-4c3b-9366-6776147bcea1&Kieli=6&OpinKohd=118591680&takaisin=omatopinn.jsp&NaytSuor=1&NaytSuun=0&NaytIlm=0&NaytHyl=0), fall 2018
+
+[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+
+## Projects
+
+## Misc. 
+
+[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+
+
+      </section>
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
