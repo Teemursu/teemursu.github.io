@@ -1,22 +1,27 @@
 ---
 layout: default
 ---
+# Courses
 
-# [Command-Line Course](cmdline_course.html)
+## [Command-Line Course](cmdline_course.html)
 
 This page covers the Command-Line course and works as a kind of summary for it. In this way, it explains some Linux shell commands as well as how Git works.
 
-# Courses I've Taken
+## Courses I've Taken
 
 Here is a sample of some of my favorite courses that are also relevant.
 
 ### Language Technology
+
 [Command-line Course](https://courses.helsinki.fi/en/KIK-LG218/126710126), grade 4
 
 [Machine Learning for Linguists](https://courses.helsinki.fi/en/kik-lg210/130394715), grade 4
 
 [Mathematics for Linguists](https://courses.helsinki.fi/en/kik-lg209/125773335), grade 4
-                                                                                                                                                                                                                                             [Building NLP Applications](https://courses.helsinki.fi/en/kik-lg211/121228521), grade 4                                                                                                                                                                                                                                                                                                                                                                                                  [Statistics for Linguists](https://courses.helsinki.fi/en/KIK-LG207/130394615), ongoing
+
+[Building NLP Applications](https://courses.helsinki.fi/en/kik-lg211/121228521), grade 4                                                        
+
+[Statistics for Linguists](https://courses.helsinki.fi/en/KIK-LG207/130394615), ongoing
 
 [Introduction to Language Technology](https://courses.helsinki.fi/en/kik-405/124787882), grade 5
 
