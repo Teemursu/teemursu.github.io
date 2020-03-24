@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## About me
 
 Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), geek and a beat maker.
 
