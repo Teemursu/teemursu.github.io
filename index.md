@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-Descriptivist, [skater](https://www.instagram.com/longteemu/),, geek and a beat maker. I'm working on my Bachelor's Thesis at the University of Helsinki.
+Descriptivist, [skater](https://www.instagram.com/longteemu/), geek and a beat maker. I'm working on my Bachelor's Thesis at the University of Helsinki.
 
 Studying language technology, language variation, language in social media, natural language processing and other phenomenon in computational linguistics. 
 ## Find me on
