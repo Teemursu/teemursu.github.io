@@ -9,17 +9,24 @@ Here is a sample of some of my favorite courses.
 
 # Master's level courses
 
+Language Technology path in the Linguistic Diversity and Digital Humanities programme.
+
 ### Language Technology
 [Introduction to Data Science](https://studies.helsinki.fi/courses/cur/hy-CUR-139877212/Introduction_to_Data_Science_HT_), grade 5
 
 [Models and algorithms in NLP-applications](https://courses.helsinki.fi/fi/lda-t3105/124901235), grade 4
 
+[Computational Morphology](https://courses.helsinki.fi/en/lda-t3101/130806562), grade 3
+
+### Digital Humanities
+
 [Approaches to linguistic diversity and digital humanities], grade 5
 
-[Computational Morphology](https://courses.helsinki.fi/en/lda-t3101/130806562), grade 3
+[Organizational Communication in the Digital Age](https://courses.helsinki.fi/en/GPC-O315/124564272), grade 5
 
 # Bachelor's level courses
 
+English philology major with studies in language technology and linguistics.
 ## [Command-Line Course](cmdline_course.html)
 
 This page covers the Command-Line course and works as a kind of summary for it. In this way, it explains some Linux shell commands as well as how Git works.
@@ -41,8 +48,6 @@ This page covers the Command-Line course and works as a kind of summary for it. 
 ### Linguistics
 
 [Linguistics in the Digital Age](https://courses.helsinki.fi/en/lda-3103), grade 4
-
-[Organizational Communication in the Digital Age](https://courses.helsinki.fi/en/GPC-O315/124564272), grade 5
 
 [Applied Linguistics: English as Lingua Franca](https://courses.helsinki.fi/en/kik-en217/125379765), grade 5
 
