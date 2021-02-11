@@ -1,17 +1,28 @@
 ---
 layout: default
 ---
-# Courses
 
 An overview of my education.
+## Courses I've Taken
+
+Here is a sample of some of my favorite courses.
+
+# Master's level courses
+
+### Language Technology
+[Introduction to Data Science](https://studies.helsinki.fi/courses/cur/hy-CUR-139877212/Introduction_to_Data_Science_HT_), grade 5
+
+[Models and algorithms in NLP-applications](https://courses.helsinki.fi/fi/lda-t3105/124901235), grade 4
+
+[Approaches to linguistic diversity and digital humanities], grade 5
+
+[Computational Morphology](https://courses.helsinki.fi/en/lda-t3101/130806562), grade 3
+
+# Bachelor's level courses
 
 ## [Command-Line Course](cmdline_course.html)
 
 This page covers the Command-Line course and works as a kind of summary for it. In this way, it explains some Linux shell commands as well as how Git works.
-
-## Courses I've Taken
-
-Here is a sample of some of my favorite courses.
 
 ### Language Technology
 
@@ -23,7 +34,7 @@ Here is a sample of some of my favorite courses.
 
 [Building NLP Applications](https://courses.helsinki.fi/en/kik-lg211/121228521), grade 4                                                        
 
-[Statistics for Linguists](https://courses.helsinki.fi/en/KIK-LG207/130394615), ongoing
+[Statistics for Linguists](https://courses.helsinki.fi/en/KIK-LG207/130394615), grade 4
 
 [Introduction to Language Technology](https://courses.helsinki.fi/en/kik-405/124787882), grade 5
 
