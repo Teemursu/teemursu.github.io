@@ -10,7 +10,7 @@ I want to help computers understand language.
 Studying NLP, lexical semantics and Transformers architecture.
 - Helsinki University - Master's programme: Linguistic Diversity & Digital Humanities - Language Technology track
 
-I'm driven by analyzing and mitigating cultural biases from AI and NLP. Currently, I'm taking part of a research project on Multilingual/Finnish gender bias in word embeddings (both static and contextual.)
+I'm driven by the analysis and mitigation of cultural biases from AI and NLP. Currently, I'm taking part of a research project on Multilingual/Finnish gender bias in word embeddings (both static and contextual.)
 
 ## Contact
 
