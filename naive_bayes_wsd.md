@@ -4,6 +4,8 @@
 ## The task
 _Create a machine learning system that can disambiguate the correct sense of a word in context. Disambiguate the four words hard, interest, line, and serve into the senses given in the Senseval 2 corpus (NLTK Corpus HOWTO: Senseval). You can augment your data with other corpora as well. You can perform either supervised or unsupervised machine learning._
 
+[Link to the notebook file](https://github.com/Teemursu/teemursu.github.io/blob/master/assets/documents/naive_bayes_wsd.ipynb)
+
 #### Why this task? 
 
 Generally, the Turing test has been thought of as a test in which (currently) a machine only mimics human behavior, and does not necessarily or exactly show intelligence. With this in mind, I'm interested in exploring ways in which we could actually teach a machine to "understand" language. In this sense, The Winograd Schemas and other NLP focused tasks in which a machine would have to identify semantic meanings would, in my opinion, move us closer to teach a machine a certain kind of intelligence. 
