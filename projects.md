@@ -24,7 +24,7 @@ This project was for the Introduction to Deep Learning course. The project repor
 
 The project was held in a form of Kaggle competition, where the access to a test set was given only by the end of the project. The following evaluation metrics are based on the development set.
 
-{:.center}![Evaluation Scores](/assets/img/scores.png#center){:width="70%"}
+{:.center}![Evaluation Scores](/assets/img/scores.png#center){:width="74%"}
 
 With RoBERTa, we achieved a macro F1-score of 61%. The fact that micro-F1 score is significantly higher than the macro counterpart shows that the model performs poorly on the least frequent labels, and better on the most common ones.
 
