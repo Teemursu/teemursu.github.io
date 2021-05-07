@@ -14,13 +14,15 @@ This is my project for my Bachelor's Thesis. The aim is to examine whether word 
 
 The data used consists of Reddit comments ranging from 2006 to 2019. First, we train an embedding for each of these years. Then, for a target word, such as "toxic," we take the ten most similar words for each year. With these neighboring words, we take their most recent (2019) position on the vector space, as well as the position of the word "toxic" for each year. Then, we transform these highly dimensional positions using principal component analysis (PCA),  constructing  a  two-dimensional  vector  space  representation  consisting  of  each  of  the neighboring  words  and  the  target  words for  each  of the  years.
 
-![ToxicPCA](https://i.imgur.com/DNRLbhx.png)
+![ToxicPCA](./_site/assets/img/toxicPCA.png)
 
 As can be seen from the two-dimensional projection, the word "toxic" changes from a more chemical associated context (poisonous) to a more social context (toxic masculinity.) In this sense, according to Bloomberg's semantic change categories, this change could be classified as a metaphorical change.
 
 ## [Multi-label text classification with RoBERTa](https://www.dropbox.com/s/2vtylokzpwkg2v6/idl_project_report.pdf?dl=0)
 
 This project was for the Introduction to Deep Learning course. The project report covers our experiments with DistilBERT, BERT base and RoBERTa. We used the AdamW optimizer with weight decay and epsilon. The data used for this project was from the Reuters corpus, with 126 different labels and almost 300,000 instances. The dataset was extremely imbalanced with some of the labels not even occurring in the training data. Because of this, we used the pos_weight parameter in the BCEWithLogitsLoss function.
+
+The project was held in a form of Kaggle competition, where the access to a test set was given only by the end of the project. The following evaluation metrics are based on the development set.
 
 ![Evaluation Scores](https://i.imgur.com/1BLUfJ8.png)
 
