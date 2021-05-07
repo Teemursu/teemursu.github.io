@@ -49,7 +49,7 @@ This search engine uses TFIDF to search for proverbs. Data was first gathered us
 
 I'm hoping to soon host this application on a site like Heroku, but I'm having some difficulties with it.
 
-## [Word Sense Disambiguation](https://teemursu.github.io/naive_bayes_wsd.html)
+## [Word Sense Disambiguation](https://teemursu.github.io/assets/documents/naive_bayes_wsd.ipynb)
 
 My first machine learning system built for "Machine Learning for Linguists" course. I used the naive Bayes classifier to disambiguate between words hard, interest, serve and line. As my data, I used the Senseval 2 corpus.
 
