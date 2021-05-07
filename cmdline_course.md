@@ -116,7 +116,7 @@ This gives us the following parse tree:
 
 Here is a more visually appealing presentation of the syntax tree.
 
-![Syntax Tree](https://i.imgur.com/tHZb1ZZ.png)
+![Syntax Tree](/assets/img/parsetree.png)
 
 ## Version Control
 
