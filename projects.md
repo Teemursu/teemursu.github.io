@@ -8,7 +8,7 @@ Here is a collection of my most important projects.
 
 
 
-## ["This is lit, fam": Diachronic word embeddings and classifying semantic change](https://www.dropbox.com/s/8bktqs8vs9sj3r6/P%C3%B6yh%C3%B6nen_Teemu_BA_Thesis.pdf?dl=0)
+## ["This is lit, fam": Diachronic word embeddings and classifying semantic change](https://teemursu.github.io/assets/documents/ba_thesis_teemu_poyhonen.pdf)
 
 This is my project for my Bachelor's Thesis. The aim is to examine whether word embeddings can be used effectively to provide evidence for semantic shifts, and specifically, how we may operationalize traditional categories of semantic change in terms of word embeddings. The methodology for training diachronic word embeddings is borrowed from the [TWEC approach](https://ojs.aaai.org//index.php/AAAI/article/view/4594) by Di Carlo, V. et al. 
 
@@ -19,7 +19,7 @@ The data used consists of Reddit comments ranging from 2006 to 2019. First, we t
 
 As can be seen from the two-dimensional projection, the word "toxic" changes from a more chemical associated context (poisonous) to a more social context (toxic masculinity.) In this sense, according to Bloomberg's semantic change categories, this change could be classified as a metaphorical change.
 
-## [Multi-label text classification with RoBERTa](https://www.dropbox.com/s/2vtylokzpwkg2v6/idl_project_report.pdf?dl=0)
+## [Multi-label text classification with RoBERTa](https://teemursu.github.io/assets/documents/idl_project_report.pdf)
 
 This project was for the Introduction to Deep Learning course. The project report covers our experiments with DistilBERT, BERT base and RoBERTa. We used the AdamW optimizer with weight decay and epsilon. The data used for this project was from the Reuters corpus, with 126 different labels and almost 300,000 instances. The dataset was extremely imbalanced with some of the labels not even occurring in the training data. Because of this, we used the pos_weight parameter in the `BCEWithLogitsLoss` function.
 
