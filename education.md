@@ -2,9 +2,6 @@
 layout: default
 ---
 
-An overview of my education.
-## Courses I've Taken
-
 Here is a sample of some of my favorite courses.
 
 # Master's level courses
