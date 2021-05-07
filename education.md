@@ -12,15 +12,26 @@ Here is a sample of some of my favorite courses.
 Language Technology path in the Linguistic Diversity and Digital Humanities programme.
 
 ### Language Technology
+
+[Computational Semantics](https://courses.helsinki.fi/fi/lda-t3103/120259997), grade 5
+
+[Introduction to Deep learning](https://courses.helsinki.fi/en/lda-t3114/127353310), grade 5
+
 [Introduction to Data Science](https://studies.helsinki.fi/courses/cur/hy-CUR-139877212/Introduction_to_Data_Science_HT_), grade 5
 
 [Models and algorithms in NLP-applications](https://courses.helsinki.fi/fi/lda-t3105/124901235), grade 4
 
 [Computational Morphology](https://courses.helsinki.fi/en/lda-t3101/130806562), grade 3
 
+[Neural Machine Translation](), grade 3
+
 ### Digital Humanities
 
-[Approaches to linguistic diversity and digital humanities], grade 5
+[Philosophy of AI](https://courses.helsinki.fi/en/lda-c5009/130804912), grade 5
+
+[Linguistics in the Digital Age](https://courses.helsinki.fi/en/lda-3103), grade 4
+
+[Approaches to linguistic diversity and digital humanities](https://studies.helsinki.fi/opintotarjonta/cu/hy-CU-134680643-2020-08-01), grade 5
 
 [Organizational Communication in the Digital Age](https://courses.helsinki.fi/en/GPC-O315/124564272), grade 5
 
@@ -47,17 +58,16 @@ This page covers the Command-Line course and works as a kind of summary for it. 
 
 ### Linguistics
 
-[Linguistics in the Digital Age](https://courses.helsinki.fi/en/lda-3103), grade 4
-
 [Applied Linguistics: English as Lingua Franca](https://courses.helsinki.fi/en/kik-en217/125379765), grade 5
 
 [Reasons and Consequences for Misunderstandings](https://courses.helsinki.fi/en/aykik-408/125298555), grade 5
 
 ### Other
 
-[English, Basic Studies](https://courses.helsinki.fi/en/a400490/114693070), grade 4
+English [Basic](https://courses.helsinki.fi/fi/avoin-yliopisto/opinnot/englanti-humanistinen-tiedekunta) and Intermediate, grades 4 & 4
 
-Linguistics, Basic Studies, ongoing
+
+Linguistics, Basic & Intermediate studies, grades 4 & 4
 
 [Practices in Digital Communications](https://courses.helsinki.fi/en/aypvk-606/123707113), (pass/fail)
 
