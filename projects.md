@@ -21,9 +21,9 @@ As can be seen from the two-dimensional projection, the word "toxic" changes fro
 
 ## [Multi-label text classification with RoBERTa](https://www.dropbox.com/s/2vtylokzpwkg2v6/idl_project_report.pdf?dl=0)
 
-This project was for the Introduction to Deep Learning course. The project report covers our experiments with DistilBERT, BERT base and RoBERTa. We used the AdamW optimizer with weight decay and epsilon. The data used for this project was from the Reuters corpus, with 126 different labels and almost 300,000 instances. The dataset was extremely imbalanced with some of the labels not even occurring in the training data. Because of this, we used the pos_weight parameter in the BCEWithLogitsLoss function.
+This project was for the Introduction to Deep Learning course. The project report covers our experiments with DistilBERT, BERT base and RoBERTa. We used the AdamW optimizer with weight decay and epsilon. The data used for this project was from the Reuters corpus, with 126 different labels and almost 300,000 instances. The dataset was extremely imbalanced with some of the labels not even occurring in the training data. Because of this, we used the pos_weight parameter in the `BCEWithLogitsLoss` function.
 
-The project was held in a form of Kaggle competition, where the access to a test set was given only by the end of the project. The following evaluation metrics are based on the development set.
+The project was held in a form of Kaggle competition, where the access to a test set was given only at the end of the course. The following evaluation metrics are based on the development set.
 
 {: .center}
 ![Evaluation Scores](/assets/img/scores.png#center){:width="74%"}
@@ -39,8 +39,6 @@ As can be seen, the model performs very well on the most common labels.
 ![Least common labels](/assets/img/least_common_labels.png#center){:width="70%"}
 
 Nevertheless, when looking at the least frequent labels, we can see that the model does not perform that well. The labels which did not contain an instance in the training data were omitted from the table. 
-
-
 
 # Smaller projects during my Bachelor studies
 
