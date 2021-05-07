@@ -42,7 +42,7 @@ Nevertheless, when looking at the least frequent labels, we can see that the mod
 
 
 
-# Smaller projects during my Bachelor's programme
+# Smaller projects during my Bachelor studies
 
 These are some of my first projects when I was still studying Machine Learning and learning to code.
 ## [Proverb Search Engine (TFIDF)](https://github.com/aarniolaura/schwas/tree/master/Final_project)
