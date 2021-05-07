@@ -61,7 +61,7 @@ This page covers the Command-Line course and works as a kind of summary for it. 
 
 ### Other
 
-English [Basic](https://courses.helsinki.fi/fi/avoin-yliopisto/opinnot/englanti-humanistinen-tiedekunta) and Intermediate, grades 4 & 4
+English, [Basic](https://courses.helsinki.fi/fi/avoin-yliopisto/opinnot/englanti-humanistinen-tiedekunta) and Intermediate studies, grades 4 & 4
 
 
 Linguistics, Basic & Intermediate studies, grades 4 & 4
