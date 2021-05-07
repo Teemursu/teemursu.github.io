@@ -40,6 +40,11 @@ As can be seen, the model performs very well on the most common labels.
 
 Nevertheless, when looking at the least frequent labels, we can see that the model does not perform that well. The labels which did not contain an instance in the training data were omitted from the table. 
 
+
+
+# Smaller projects during my Bachelor's programme
+
+These are some of my first projects when I was still studying Machine Learning and learning to code.
 ## [Proverb Search Engine (TFIDF)](https://github.com/aarniolaura/schwas/tree/master/Final_project)
 
 This search engine uses TFIDF to search for proverbs. Data was first gathered using BeautifulSoup from various websites (mostly from phrases.org.uk). The search engine has stemming, and can also search by meaning of the phrase. This is done by searching the definitions of all proverbs.
