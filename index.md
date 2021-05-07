@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), geek and a beat maker.
+Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), a geek and a beat maker.
 
-Studying language technology, NLP (natural language processing) and language change. I'm working on my Bachelor's Thesis at the University of Helsinki.
+Studying NLP, lexical semantics and Transformers architecture. I'm currently in the language technology path in the Linguistic Diversity & Digital Humanities MA programme in Helsinki University.
 
 ## Contact
 
