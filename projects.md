@@ -24,15 +24,15 @@ This project was for the Introduction to Deep Learning course. The project repor
 
 The project was held in a form of Kaggle competition, where the access to a test set was given only by the end of the project. The following evaluation metrics are based on the development set.
 
-![Evaluation Scores](/assets/img/scores.png){:width=50%, height=50%}
+![Evaluation Scores](/assets/img/scores.png){:width="80%", height=80%}
 
 With RoBERTa, we achieved a macro F1-score of 61%. The fact that micro-F1 score is significantly higher than the macro counterpart shows that the model performs poorly on the least frequent labels, and better on the most common ones.
 
-![Most common labels](/assets/img/most_common_labels.png){:width="50%"}
+![Most common labels](/assets/img/most_common_labels.png){:width="80%"}
 
 As can be seen, the model performs very well on the most common labels.
 
-![Least common labels](/assets/img/least_common_labels.png){:height=50% }
+![Least common labels](/assets/img/least_common_labels.png){:height="70%"}
 
 Nevertheless, when looking at the least frequent labels, we can see that the model does not perform that well. The labels which did not contain an instance in the training data were omitted from the table. 
 
