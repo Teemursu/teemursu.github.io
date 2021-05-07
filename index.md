@@ -5,7 +5,11 @@ layout: default
 
 Founder of [HELdance ry](https://www.facebook.com/HELdanceCrew/), linguist, [skater](https://www.instagram.com/longteemu/), a geek and a beat maker.
 
-Studying NLP, lexical semantics and Transformers architecture. I'm currently in the language technology path in the Linguistic Diversity & Digital Humanities MA programme in Helsinki University.
+I want to help computers understand language. 
+
+Studying NLP, lexical semantics and Transformers architecture in the language technology track in the Linguistic Diversity & Digital Humanities MA programme in Helsinki University.
+
+I'm driven by analyzing and mitigating cultural biases from AI and NLP. Currently, I'm taking part of a research project on Multilingual/Finnish gender bias in word embeddings (both static and contextual.)
 
 ## Contact
 
