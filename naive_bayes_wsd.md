@@ -4,7 +4,7 @@
 ## The task
 _Create a machine learning system that can disambiguate the correct sense of a word in context. Disambiguate the four words hard, interest, line, and serve into the senses given in the Senseval 2 corpus (NLTK Corpus HOWTO: Senseval). You can augment your data with other corpora as well. You can perform either supervised or unsupervised machine learning._
 
-[Link to the notebook file](https://github.com/Teemursu/teemursu.github.io/blob/master/assets/documents/naive_bayes_wsd.ipynb)
+[Link to the Jupyter notebook file](https://github.com/Teemursu/teemursu.github.io/blob/master/assets/documents/naive_bayes_wsd.ipynb)
 
 #### Why this task? 
 
