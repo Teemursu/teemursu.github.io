@@ -83,10 +83,6 @@
 
       <footer class="site-footer">
         <p>The universe is, and we are.</p>
-        <div class="footer-links">
-          <a href="mailto:{{ site.email | default: 'poyhonenteemu@gmail.com' }}">Email</a>
-          <a href="{{ site.cv_url | default: '/Teemu-Poyhonen-CV.pdf' | relative_url }}">CV</a>
-        </div>
         {% if site.github.is_project_page %}
         <p><small>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
         {% endif %}
