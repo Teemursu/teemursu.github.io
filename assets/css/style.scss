@@ -4,14 +4,14 @@
 @import "fonts";
 
 :root {
-  --bg: #0d0f13;
-  --panel: #151922;
-  --panel-soft: #1b202a;
-  --text: #e8ecf2;
-  --muted: #9aa3b5;
-  --accent: #7cf3c4;
-  --accent-2: #7aa2ff;
-  --border: #242c3a;
+  --bg: #0b1e26;
+  --panel: #11293a;
+  --panel-soft: #162f42;
+  --text: #f6f2ea;
+  --muted: #c7cbd6;
+  --accent: #ff7d25;
+  --accent-2: #6a4d75;
+  --border: #174e7d;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
 }
 
@@ -21,7 +21,7 @@
 
 body {
   margin: 0;
-  background: radial-gradient(120% 140% at 20% 20%, #1f2531 0, rgba(31, 37, 49, 0) 45%), var(--bg);
+  background: radial-gradient(120% 140% at 20% 20%, rgba(23, 78, 125, 0.35) 0, rgba(11, 30, 38, 0) 45%), var(--bg);
   color: var(--text);
   font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7;
@@ -36,7 +36,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #9ff8d7;
+  color: #ff9a54;
 }
 
 .page {
@@ -46,7 +46,7 @@ a:focus {
 }
 
 .site-header {
-  background: linear-gradient(120deg, #1a1f2a, #11141c);
+  background: linear-gradient(135deg, rgba(23, 78, 125, 0.25), rgba(106, 77, 117, 0.35), rgba(11, 30, 38, 0.85));
   border: 1px solid var(--border);
   border-radius: 20px;
   padding: 28px 28px 24px;
@@ -101,7 +101,7 @@ a:focus {
 
 .tagline {
   margin: 0 0 10px 0;
-  color: #c8cfdd;
+  color: #d7dce7;
 }
 
 .chip-row {
@@ -177,8 +177,8 @@ a:focus {
 }
 
 .site-nav .nav-pill {
-  background: linear-gradient(135deg, var(--accent), var(--accent-2));
-  color: #0b0d12;
+  background: linear-gradient(135deg, var(--accent), #ff9a54);
+  color: #0b1e26;
   border: none;
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
 }
@@ -227,7 +227,7 @@ a:focus {
 blockquote {
   border-left: 3px solid var(--accent);
   padding-left: 14px;
-  color: #c8cfdd;
+  color: #d7dce7;
   background: rgba(255, 255, 255, 0.03);
   border-radius: 8px;
 }
