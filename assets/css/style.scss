@@ -6,12 +6,12 @@
 :root {
   --bg: #0b1e26;
   --panel: #0b1e26;
-  --panel-soft: #11293a;
+  --panel-soft: #174e7d;
   --text: #f6f2ea;
   --muted: #c7cbd6;
   --accent: #ff7d25;
   --accent-2: #6a4d75;
-  --border: #174e7d;
+  --border: #676e4c;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
 }
 
@@ -47,7 +47,7 @@ a:focus {
 
 .site-header {
   background: linear-gradient(135deg, rgba(23, 78, 125, 0.2), rgba(106, 77, 117, 0.25), rgba(11, 30, 38, 0.9));
-  border: 1px solid #0f2c3f;
+  border: 1px solid #676e4c;
   border-radius: 20px;
   padding: 28px 28px 24px;
   display: flex;
