@@ -12,30 +12,47 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>{{site.title}}</h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
+    <div class="page">
+      <header class="site-header">
+        <div class="brand">
+          {% if site.logo %}
+          <div class="avatar-frame">
+            <img class="avatar" src="{{ site.logo | relative_url }}" alt="{{ site.title }} portrait" />
+          </div>
+          {% endif %}
+          <div class="brand-text">
+            <p class="eyebrow">LLMs / Evaluation / Agents</p>
+            <h1>{{ site.title }}</h1>
+            <p class="tagline">{{ site.description }}</p>
+            <div class="chip-row">
+              <a class="chip" href="mailto:{{ site.email | default: 'poyhonenteemu@gmail.com' }}">{{ site.email | default: 'poyhonenteemu@gmail.com' }}</a>
+              <a class="chip" href="https://github.com/teemursu">GitHub</a>
+              <a class="chip" href="https://www.linkedin.com/in/teemu-p%C3%B6yh%C3%B6nen-b26542157">LinkedIn</a>
+            </div>
+          </div>
+        </div>
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a class="nav-pill" href="{{ site.cv_url | default: '/Teemu-Poyhonen-CV.pdf' | relative_url }}">CV</a>
+          <a href="{{ '/projects.html' | relative_url }}">Projects</a>
+          <a href="{{ '/education.html' | relative_url }}">Courses</a>
+        </nav>
       </header>
-      <section>
-	<div class="linkbar">
-	  <a class="sitelinks" href="index.html">Home</a> 
-    <a class="sitelinks" href="https://teemursu.github.io/assets/documents/cv_teemu_poyhonen.pdf">CV</a>
-	  <a class="sitelinks" href="projects.html">Projects</a>
-    <a class="sitelinks" href="education.html">Courses</a>
-	</div>
-      {{ content }}
 
-      </section>
-      <footer>
+      <main class="content-shell">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <p>Exploring NLP, semantics, and bias-resistant AI systems.</p>
+        <div class="footer-links">
+          <a href="mailto:{{ site.email | default: 'poyhonenteemu@gmail.com' }}">Email</a>
+          <a href="{{ site.cv_url | default: '/Teemu-Poyhonen-CV.pdf' | relative_url }}">CV</a>
+        </div>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p><small>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages.</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

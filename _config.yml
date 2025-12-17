@@ -1,6 +1,8 @@
-title: Teemu Pöyhönen
-logo: /assets/img/idontgetit.jpg
-description: Teemu's homepage
-show_downloads: true
+title: Teemu Poyhonen
+logo: /profilepic.jpg
+description: LLMs, evaluation, and agentic NLP
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+cv_url: /Teemu-Poyhonen-CV.pdf
+email: poyhonenteemu@gmail.com

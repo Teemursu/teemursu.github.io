@@ -2,4 +2,4 @@
 layout: default
 ---
 
-![CV](/assets/documents/cv_teemu_poyhonen.pdf)
+[Download my CV]({{ "/Teemu-Poyhonen-CV.pdf" | relative_url }})
