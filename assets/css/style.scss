@@ -136,6 +136,12 @@ a:focus {
   fill: currentColor;
 }
 
+.chip-image {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

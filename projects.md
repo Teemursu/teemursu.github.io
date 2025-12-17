@@ -9,6 +9,7 @@ layout: default
 Local LLM game dialogue system with an on-device RAG pipeline. Runs fully on the player's machine to keep latency low and protect user privacy. Built as part of Espoo Game Lab; included retrieval design, prompt routing, and evaluation of story coherence.
 
 ## RPG-GPT (Master's thesis, 2023)
+[Read thesis](https://helda.helsinki.fi/items/5e2f7523-c61f-4315-814d-47b8a0e23d06)
 
 Creative NLG for RPG NPCs. Extracted dialogue from popular RPGs and fine-tuned Microsoft's GODEL to act as an "RPG chatbot." Conducted a user study on relevance and engagement; found that task-oriented game dialogue (TOGD) with external knowledge improves player experience.
 
