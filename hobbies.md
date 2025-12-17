@@ -8,6 +8,11 @@ layout: default
   <a href="https://soundcloud.com/polynoises/post-cosmos" title="Post Cosmos" target="_blank" style="color: #cccccc; text-decoration: none;">Post Cosmos</a>
 </div>
 
+<div class="video-embeds">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/3CuYk55q_ec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/FNW21KpH33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 {% assign lofoten = site.static_files | where_exp: "file", "file.path contains '/assets/hobbies/lofoten/'" | sort: "path" %}
 <div class="gallery">
   {% for photo in lofoten %}

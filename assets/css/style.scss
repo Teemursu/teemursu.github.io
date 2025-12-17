@@ -304,6 +304,12 @@ img {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
 }
 
+.video-embeds {
+  display: grid;
+  gap: 16px;
+  margin: 20px 0;
+}
+
 @media (max-width: 900px) {
   .gallery {
     column-count: 2;
