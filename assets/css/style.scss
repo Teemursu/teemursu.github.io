@@ -21,7 +21,7 @@
 
 body {
   margin: 0;
-  background: radial-gradient(120% 140% at 20% 20%, rgba(23, 78, 125, 0.15) 0, rgba(11, 30, 38, 0) 45%), var(--bg);
+  background: var(--bg);
   color: var(--text);
   font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7;
