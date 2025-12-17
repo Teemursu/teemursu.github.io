@@ -28,6 +28,8 @@
             {% assign page_tagline = site.description %}
             {% if page.url contains 'hobbies' %}
               {% assign page_tagline = 'Longboard dancing, music, games, and photography' %}
+            {% elsif page.url contains 'projects' %}
+              {% assign page_tagline = 'Projects, papers, and prototypes' %}
             {% endif %}
             <h1>{{ site.title }}</h1>
             <p class="tagline">{{ page_tagline }}</p>
