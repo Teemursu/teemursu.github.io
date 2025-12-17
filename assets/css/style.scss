@@ -302,12 +302,35 @@ img {
   border-radius: 12px;
   break-inside: avoid;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+  cursor: zoom-in;
 }
 
 .video-embeds {
   display: grid;
   gap: 16px;
   margin: 20px 0;
+}
+
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+  padding: 20px;
+}
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 12px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+}
+
+.hidden {
+  display: none;
 }
 
 @media (max-width: 900px) {
