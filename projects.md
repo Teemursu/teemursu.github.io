@@ -4,6 +4,12 @@ layout: default
 
 # Projects
 
+## Highlights
+
+- First author: "Multilingual Persuasion Detection: Video Games as an Invaluable Data Source for NLP" (DiGRA 2022). Built a multilingual persuasion dataset from RPG dialogue (EN/ES/DE/FR/IT) and compared mono vs. multilingual BERT models; 12 citations.
+- Master's thesis: RPG-GPT - creative dialogue for RPG NPCs by fine-tuning GODEL and running user studies on relevance and engagement.
+- Invited panelist, "Gender Correct?" (Goethe-Institut and SKTL) on gender bias in translation; wrote the accompanying article for SKTL magazine.
+
 ## Relics (2024)
 
 Local LLM game dialogue system with an on-device RAG pipeline. Runs fully on the player's machine to keep latency low and protect user privacy. Built as part of Espoo Game Lab; included retrieval design, prompt routing, and evaluation of story coherence.
