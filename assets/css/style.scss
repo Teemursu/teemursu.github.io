@@ -5,8 +5,8 @@
 
 :root {
   --bg: #0b1e26;
-  --panel: #11293a;
-  --panel-soft: #162f42;
+  --panel: #0b1e26;
+  --panel-soft: #11293a;
   --text: #f6f2ea;
   --muted: #c7cbd6;
   --accent: #ff7d25;
@@ -21,7 +21,7 @@
 
 body {
   margin: 0;
-  background: radial-gradient(120% 140% at 20% 20%, rgba(23, 78, 125, 0.35) 0, rgba(11, 30, 38, 0) 45%), var(--bg);
+  background: radial-gradient(120% 140% at 20% 20%, rgba(23, 78, 125, 0.15) 0, rgba(11, 30, 38, 0) 45%), var(--bg);
   color: var(--text);
   font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
   line-height: 1.7;
@@ -46,8 +46,8 @@ a:focus {
 }
 
 .site-header {
-  background: linear-gradient(135deg, rgba(23, 78, 125, 0.25), rgba(106, 77, 117, 0.35), rgba(11, 30, 38, 0.85));
-  border: 1px solid var(--border);
+  background: linear-gradient(135deg, rgba(23, 78, 125, 0.2), rgba(106, 77, 117, 0.25), rgba(11, 30, 38, 0.9));
+  border: 1px solid #0f2c3f;
   border-radius: 20px;
   padding: 28px 28px 24px;
   display: flex;
