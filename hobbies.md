@@ -7,3 +7,10 @@ layout: default
   <a href="https://soundcloud.com/polynoises" title="polynoises" target="_blank" style="color: #cccccc; text-decoration: none;">polynoises</a> ·
   <a href="https://soundcloud.com/polynoises/post-cosmos" title="Post Cosmos" target="_blank" style="color: #cccccc; text-decoration: none;">Post Cosmos</a>
 </div>
+
+{% assign lofoten = site.static_files | where_exp: "file", "file.path contains '/assets/hobbies/lofoten/'" | sort: "path" %}
+<div class="gallery">
+  {% for photo in lofoten %}
+  <img src="{{ photo.path | relative_url }}" alt="Lofoten photo">
+  {% endfor %}
+</div>

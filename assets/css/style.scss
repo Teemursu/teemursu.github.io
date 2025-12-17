@@ -289,6 +289,33 @@ img {
   text-align: center;
 }
 
+.gallery {
+  column-count: 3;
+  column-gap: 14px;
+  margin-top: 18px;
+}
+
+.gallery img {
+  width: 100%;
+  margin: 0 0 14px 0;
+  display: block;
+  border-radius: 12px;
+  break-inside: avoid;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+}
+
+@media (max-width: 900px) {
+  .gallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .gallery {
+    column-count: 1;
+  }
+}
+
 @media (max-width: 720px) {
   body {
     padding: 0;
